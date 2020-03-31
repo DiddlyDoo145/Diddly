@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Brazilwood Camp",
+		"uniqueTo": "Brazil",
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Machinery",
+		"improvingTech": "Acoustics",
+		"improvingTechStats": {"culture":2},
+		"terrainsCanBeBuiltOn": ["Jungle"]
+	},
+	{
+		"name": "Polder",
+		"uniqueTo": "The Dutch",
+		"food": 3,
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Machinery",
+		"improvingTech": "Economics",
+		"improvingTechStats": {"gold":2},
+		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"]
+	}
+]

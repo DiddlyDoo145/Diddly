@@ -1,0 +1,1106 @@
+[
+	{
+		"name": "Assyria",
+		"leaderName": "Ashurbanipal",
+		"adjective": [
+			"Assyrian"
+		],
+		"startBias": [
+			"Avoid Tundra"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
+		"startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I fear there is no other choice but to remove you from this world!",
+		"attacked": "I think you will come to regret this decision...most unwise.",
+		"defeated": "We may be defeated, but our legacy will live on in the written word!",
+		"introduction": "I welcome you to the great kingdom of Assyria...have you come to view my library?",
+		"neutralHello": "?",
+		"neutralLetsHearIt": [
+			"Go on.",
+			"I will listen to you.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"?",
+			"?",
+			" No! Certainly not!"
+		],
+		"neutralYes": [
+			"Very well",
+			"I agree!",
+			"I agree."
+		],
+		"hateHello": "?",
+		"hateLetsHearIt": [
+			"?",
+			"What now?!",
+			"What do you want?"
+		],
+		"hateNo": [
+			"No!",
+			"?",
+			"?"
+		],
+		"hateYes": [
+			"?",
+			"?",
+			"So be it."
+		],
+		"afterPeace": [
+			"So shall it be written, today we are the victors!"
+		],
+		"tradeRequest": "Will you consider a trade?",
+		"outerColor": [
+			255,
+			177,
+			9
+		],
+		"innerColor": [
+			251,
+			255,
+			206
+		],
+		"uniqueName": "TREASURES_OF_NINEVEH",
+		"cities": [
+			"Assur",
+			"Nineveh",
+			"Nimrud",
+			"Kar-Tukulti-Ninurta",
+			"Dur-Sharrukin",
+			"Halab",
+			"Carchemish",
+			"Kanesh",
+			"Harran",
+			"Imgur-Enlil",
+			"Shubat-Enlil",
+			"Qatna",
+			"Sareisa",
+			"Sam al",
+			"Qarqar",
+			"Til Barsip",
+			"Sultantepe",
+			"Erbil",
+			"Hamath",
+			"Guzana",
+			"Turuspa",
+			"Nasibina",
+			"Arpad",
+			"Kelashin",
+			"Urartu",
+			"Sabata",
+			"Hit"
+		]
+	},
+	{
+		"name": "Austria",
+		"leaderName": "Maria Theresa",
+		"adjective": [
+			"Austrian"
+		],
+		"startBias": [
+			"Hill"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "Noble and virtuous Queen Maria Theresa, Holy Roman Empress and sovereign of Austria, your people bow to your gracious will. Following the death of your father, King Charles VI, you ascended to the throne of Austria during the time of great instability, but the empty coffers and diminished military did little to dissuade your ambitions. Faced with war almost immediately upon your succession to the throne, you managed to fend off your foes, and in naming your husband, Francis Stephen, co-ruler, assured your place as Empress of the Holy Roman Empire. During your reign, you guided Austria on a new path of reform - strengthening the military, replenishing the treasury, and improving the education system of the kingdom.",
+		"startIntroPart2": "Oh great queen, bold and dignified, the time has come for you to rise and guide your kingdom once again. Can you return your people to the height of prosperity and splendor? Will you build a civilization that will stand the test of time?",
+		"declaringWar": "Shame that it has come this far. But ye wished it so.",
+		"attacked": "What a fool ye are! Ye will end swiftly and miserably.",
+		"defeated": "The world is pitiful! There's no beauty in it, no wisdom. I am almost glad to go.",
+		"introduction": "The archduchess of Austria welcomes your Eminence to... Oh let's get this over with! I have a luncheon at four o'clock.",
+		"neutralHello": "Hello!",
+		"neutralLetsHearIt": [
+			"Go on!",
+			" I'm listening.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"Certainly not!",
+			"We reject!",
+			"We reject!"
+		],
+		"neutralYes": [
+			"Okay!",
+			"Agreed!",
+			"Very nice!"
+		],
+		"hateHello": "Oh, it's ye!",
+		"hateLetsHearIt": [
+			"Come again?",
+			"And?",
+			"Go on!"
+		],
+		"hateNo": [
+			"That's unacceptable!",
+			"Ye can't be serious?!",
+			"Pardon?"
+		],
+		"hateYes": [
+			"Well, if it must be.",
+			"I guess I have no other choice.",
+			"I agree!."
+		],
+		"afterPeace": [
+			"I hope, you're satisfied with this. Just to act-like, but no action as it seems."
+		],
+		"tradeRequest": "I see you admire my new damask. Nobody should say that I am an unjust woman. Let's reach an agreement!",
+		"outerColor": [
+			171,
+			0,
+			0			
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"uniqueName": "DIPLOMATIC_MARRIAGE",
+		"cities": [
+			"Vienna",
+			"Salzburg",
+			"Graz",
+			"Linz",
+			"Klagenfurt",
+			"Bregenz",
+			"Innsbruck",
+			"Kitsbühel",
+			"St. Pölten",
+			"Eisenstadt",
+			"Villach",
+			"Zwettl",
+			"Traun",
+			"Weis",
+			"Dombim",
+			"Feldkirch",
+			"Amstetten",
+			"Bad Ischl",
+			"Wolfsberg",
+			"Kufstein",
+			"Leoben",
+			"Klosterneuburg",
+			"Leonding",
+			"Kapfenberg",
+			"Hallein",
+			"Bischofshofen",
+			"Saalbach",
+			"Lienz",
+			"Steyr",
+		]	
+	},
+	{
+		"name": "Aztec",
+		"leaderName": "Montezuma",
+		"adjective": [
+			"Aztec"
+		],
+		"startBias": [
+			"Jungle"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Welcome, o divine Montezuma, we grovel in awe at your magnificence, may the heaven shower all manner of good things upon you all the days of your life! You are the leader of the mighty Aztec people, wandering nomads from a lost home in the north who in the 12th century came to live in the mesa central in the heart of what would come to be call Mexico. Surrounded by many tribes fighting to control the rich land surrounding the sacred lakes of Texcoco, Xaltocan, and Zampango. Through cunning alliances and martial prowess, within a mere two hundred years, the Aztecs came to dominate the Central American basin, ruling a mighty empire stretching from sea to sea. The empire at last fell under assault from foreign devils. The accursed Spaniards, wielding fiendish weapons the likes of which your faithful warriors had never seen.",
+		"startIntroPart2": "O great king Montezuma, your people call upon you once more, to rise up and lead them to glory, bring them wealth and power, and give them dominion over their foes and rivals. Will you answer their call, glorious leader? Will you build a civilization that will stand the test of time?",
+		"declaringWar": "Die, die, die!",
+		"attacked": "Excellent! Let the blood flow in raging torrents!",
+		"defeated": "Monster! Who are you to destroy my greatness?",
+		"introduction": " I am Montezuma, emperor of the Aztecs...",
+		"neutralHello": "Welcome, friend.",
+		"neutralLetsHearIt": [
+			"Go ahead.",
+			"Proceed.",
+			"I'm listening."
+		],
+		"neutralNo": [
+			"Certainly not!",
+			"No!",
+			"Certainly not!"
+		],
+		"neutralYes": [
+			"Certainly!",
+			"Yes, it is good.",
+			"Yes, it is good."
+		],
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": [
+			"What?",
+			"What do you say?",
+			"Go on."
+		],
+		"hateNo": [
+			"Certainly not!",
+			"Are you crazy?",
+			"I would rather pierce my bowels with hot skewers!"
+		],
+		"hateYes": [
+			"Oh, very well.",
+			"I suppose I must.",
+			"Yes, it is good!."
+		],
+		"afterPeace": [
+			"Curses! I will sacrifice ten thousand citizens to expiate this humiliation!"
+		],
+		"tradeRequest": "Accept this agreement or suffer the consequences.",
+		"outerColor": [
+			139,
+			32,
+			23
+		],
+		"innerColor": [
+			134,
+			238,
+			214
+		],
+		"uniqueName": "SACRIFICIAL_CAPTIVES",
+		"cities": [
+			"Tenochtitlan",
+			"Teotihuacan",
+			"Tiateloco",
+			"Texoco",
+			"Tiaxcala",
+			"Calixtlahuaca",
+			"Xochicalco",
+			"Tlacopan",
+			"Atzcapotzalco",
+			"Tzintzuntzan",
+			"Malinalco",
+			"Tula",
+			"Tamuin",
+			"Teayo",
+			"Cempoala",
+			"Chalco",
+			"Tlalamalco",
+			"Ixtapaluca",
+			"Huexotla",
+			"Tepexpan",
+			"Tepetlaoxtoc",
+			"Chiconautla",
+			"Zitlaltepec",
+			"Coyotepec",
+			"Tequixquiac",
+			"Jilotzingo",
+			"Tlapanaloya",
+			"Tultitan",
+			"Ecatepec",
+			"Coatepec",
+			"Chalchiuites",
+			"Chiauhita",
+			"Chapultepec",
+			"Itzapalapa",
+			"Ayotzinco",
+			"Iztapam"
+		]			
+	},
+	{
+		"name": "Brazil",
+		"leaderName": "Pedro II",
+		"adjective": [
+			"Brazilian"
+		],
+		"startBias": [
+			"Jungle"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "All Hail his most respected and magnanimous Emperor, Pedro II of Brazil. It was with great insight and unshakeable dignity that you ruled the Brazilian empire for over 50 years, ushering in a time of lasting peace and prosperity. Your reputation as a stern, but fair leader was never blemished by controversy, as your unwavering dedication to the people of Brazil provided hope and established the kingdom's position in South America. Your scholarly pursuits and staunch defense of freedom of speech led to the creation of several institutions of higher learning, strengthening Brazil's sense of national identity.",
+		"startIntroPart2": "Revered Emperor Pedro, your people long for a return to the peaceful days when you walked among them, hearing their stories and reassuring them of a bright future. Will you once again lead your kingdom to prosperity? Can you build a civilization that stands the test of time?",
+		"declaringWar": "Your reign will be better under MY domain.",
+		"attacked": "I worry about all those who are affected by this conflict.",
+		"defeated": "This is why I prefer diplomacy to violence...",
+		"introduction": "I am Pedro, Emperor of Brazil. I have little time for pleasantries, what brings you here?",
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": [
+			"Please, go on.",
+			"Continue.",
+			"I'm listening."
+		],
+		"neutralNo": [
+			"No.",
+			"We refuse!",
+			"That is unacceptable."
+		],
+		"neutralYes": [
+			"Very well.",
+			"Of course.",
+			"I agree."
+		],
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": [
+			"Speak!",
+			"What now?",
+			"You again?!"
+		],
+		"hateNo": [
+			"You cannot be serious!",
+			"Definitely not!",
+			"You must be joking!"
+		],
+		"hateYes": [
+			"Great!",
+			"If I need to.",
+			"As you wish!"
+		],
+		"afterPeace": [
+			"Brazil's power shines over all adversity!"
+		],
+		"tradeRequest": "Should we prosper through commerce?",
+		"outerColor": [
+			107,
+			208,
+			6
+		],
+		"innerColor": [
+			63,
+			106,
+			64
+		],
+		"uniqueName": "CARNIVAL",
+		"cities": [
+			"Rio de Janeiro",
+			"São Paulo",
+			"Salvador",
+			"Brasilia",
+			"Fortalezaq",
+			"Belo Horizonte",
+			"Manaus",
+			"Curitiba",
+			"Recife",
+			"Porto Alegre",
+			"Belém",
+			"Goiânia",
+			"Guarulhos",
+			"Campinas",
+			"São Luis",
+			"Maceió",
+			"Duque de Caxias",
+			"Natal",
+			"Campo Grande",
+			"Teresina",
+			"Florianópolis",
+			"Nova Iguaçu",
+			"Sao Bernardo do Campo",
+			"João Pessoa",
+			"Osasco",
+			"Jaboatão dos Guararapes",
+			"São José dos Campos",
+			"Contagem",
+			"Uberlândia",
+			"Aracaju",
+			"Feira de Santana",
+			"Juiz de Fora",
+			"Joinville",
+			"Jundiaí"
+		]			
+	},
+{
+		"name": "Byzantine",
+		"leaderName": "Theodora",
+		"adjective": [
+			"Byzantine"
+		],
+		"startBias": [
+			"Coast"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "All hail the most magnificent and magnanimous Empress Theodora, beloved of Byzantium and of Rome! From the lowly ranks of actress and courtesan you became the most powerful woman in the Roman Empire, consort to Justinian I. Starting in the late 520's AD, you joined your husband in a series of important spiritual and legal reforms, creating many laws which elevated the status of and promoted equal treatment of women in the empire. You also aided in the restoration and construction of many aqueducts, bridges and churches across Constantinople, culminating in the creation of the Hagia Sophia, one of the most splendid architectural wonders of the world.",
+		"startIntroPart2": "Beautiful Empress, Byzantium is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you create a civilization to stand the test of time?",
+		"declaringWar": "It has always been a shame throwing away beauty. Thankfully, not like that.",
+		"attacked": "Now that riots are needed, friend, we'll teach you a lesson.",
+		"defeated": "I hope you knew that to act like that. Just know that in this world nobody will aid a traitor.",
+		"introduction": "Oh! A miracle in front of my eyes. What is the name of this good stranger? I am Theodora, friend of Byzantium.",
+		"neutralHello": "Sweet.",
+		"neutralLetsHearIt": [
+			"Did you want something?",
+			"I'm listening.",
+			"Yes, my friend?"
+		],
+		"neutralNo": [
+			"Not even with a horse.",
+			"It's needed to repel you",
+			"Reluctantly, no."
+		],
+		"neutralYes": [
+			"With a horse my friend.",
+			"Agreed.",
+			"Perfect."
+		],
+		"hateHello": "?",
+		"hateLetsHearIt": [
+			"Tell me.",
+			"What?",
+			"Move on."
+		],
+		"hateNo": [
+			"That's unlikely.",
+			"Definitely not.",
+			"Excuse me?!"
+		],
+		"hateYes": [
+			"It must be good.",
+			"Where am I needed?",
+			"Agreed."
+		],
+		"afterPeace": [
+			"I'd say this was so delightful, don't you agree? I must say, winning satisfies me so much."
+		],
+		"tradeRequest": "I heard nice things from you in your latest sayings...show me.",
+		"outerColor": [
+			88,
+			145,
+			228
+		],
+		"innerColor": [
+			80,
+			23,
+			135
+		],
+		"uniqueName": "PATRIARCHATE_OF_CONSTANTINOPLE",
+		"cities": [
+			"Constantinople",
+			"Adrianople",
+			"Nicaea",
+			"Antioch",
+			"Varna",
+			"Ohrid",
+			"Nicomedia",
+			"Trebizond",
+			"Cherson",
+			"Sardica",
+			"Ani",
+			"Dyrrachium",
+			"Edessa",
+			"Chalcedon",
+			"Naissus",
+			"Bari",
+			"Iconium",
+			"Prilep",
+			"Samosata",
+			"Kars",
+			"Nicopolis",
+			"Theodosiopolis",
+			"Tyana",
+			"Gaza",
+			"Kerkyra",
+			"Phoenice",
+			"Selymbria",
+			"Sillyon",
+			"Chrysopolis",
+			"Vodena",
+			"Caesarea Maritima",
+			"Traianoupoli",
+			"Constantia",
+			"Korinthos",
+			"Patra"
+		]
+	},
+	{
+		"name": "Carthage",
+		"leaderName": "Dido",
+		"adjective": [
+			"Carthaginian"
+		],
+		"startBias": [
+			"Coast"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Blessings and salutations to you, revered Queen Dido, founder of the legendary kingdom of Carthage. Chronicled by the words of the great poet Virgil, your husband Acerbas was murdered at the hands of your own brother, King Pygmalion of Tyre, who subsequently claimed the treasures of Acerbas that were now rightfully yours. Fearing the lengths from which your brother would pursue this vast wealth, you and your compatriots sailed for new lands. Arriving on the shores of North Africa, you tricked the local king with the simple manipulation of an ox hide, laying out a vast expanse of territory for your new home, the future kingdom of Carthage.",
+		"startIntroPart2": "Clever and inquisitive Dido, the world longs for a leader who can provide a shelter from the coming storm, guided by brilliant intuition and cunning. Can you lead the people in the creation of a new kingdom to rival that of once mighty Carthage? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "Tell me, do you all know how numerous my armies, elephants and the gdadons are? No? Today, you shall find out!",
+		"attacked": "Fate is against you. You earned the animosity of Carthage in your exploration. Your days are numbered.",
+		"defeated": "The fates became to hate me. This is ? You wouldn't destroy us so without their help.",
+		"introduction": "The Phoenicians welcome you to this most pleasant kingdom. I am Dido, the queen of Carthage and all that belongs to it.",
+		"neutralHello": "It is done.",
+		"neutralLetsHearIt": [
+			"Let's hear it.",
+			"Go on.",
+			"Go on."
+		],
+		"neutralNo": [
+			"This is not enough.",
+			"No.",
+			"This is not a valid request!"
+		],
+		"neutralYes": [
+			"Done.",
+			"Fine.",
+			"Fine."
+		],
+		"hateHello": "What is it now?",
+		"hateLetsHearIt": [
+			"You were saying?",
+			"Go on.",
+			"Go on."
+		],
+		"hateNo": [
+			"You are not honest!",
+			"What did you say?!",
+			"What did you say?!"
+		],
+		"hateYes": [
+			"Fine, fine...",
+			"If I must.",
+			"If I must."
+		],
+		"afterPeace": [
+			"You lied. You were after my gift without arousing suspicion. Your hatred is without respect. "
+		],
+		"tradeRequest": "I had an idea and I realized I should tell it to you!",
+		"outerColor": [
+			189,
+			189,
+			189
+		],
+		"innerColor": [
+			88,
+			0,
+			154
+		],
+		"uniqueName": "PHOENICIAN_HERITAGE",
+		"cities": [
+			"Carthage",
+			"Utique",
+			"Hippo Regius",
+			"Gades",
+			"Saguntum",
+			"Carthago Nova",
+			"Panormus",
+			"Lilybaeum",
+			"Hadrumetum",
+			"Zama Regia",
+			"Karalis",
+			"Malaca",
+			"Leptis Magna",
+			"Hippo Diarrhytus",
+			"Motya",
+			"Sulci",
+			"Tharros",
+			"Leptis Parva",
+			"Soluntum",
+			"Lixus",
+			"Oea",
+			"Theveste",
+			"Ibossim",
+			"Thapsus",
+			"Aleria",
+			"Tingis",
+			"Abyla",
+			"Sabratha",
+			"Rusadir",
+			"Baecula",
+			"Saldae"
+		]
+	},
+	{
+		"name": "Celts",
+		"leaderName": "Boudicca",
+		"adjective": [
+			"Celtic"
+		],
+		"startBias": [
+			"Forest"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "Eternal glory and praise for you, fierce and vengeful Warrior Queen! In a time dominated by men, you not only secured your throne and sovereign rule, but also successfully defied the power of the Roman Empire. After suffering terrible punishment and humiliation at the hand of the Roman invaders, you rallied your people in a bloody and terrifying revolt. Legions fell under your chariot wheels and the city of London burned. While in the end the Romans retained ownership of the isles, you alone made Nero consider withdrawing all troops and leaving Briton forever.",
+		"startIntroPart2": "Oh sleeping lioness, your people desire that you rise and lead them again in the calling that is your namesake. Will you meet their challenge on the open field and lead the Celts to everlasting victory? Will you restore your lands and build an empire to stand the test of time?",
+		"declaringWar": "I've been watching you, you devious pigs! To guard patriots! March to war!",
+		"attacked": "How dare you! I will be the one owning your head.",
+		"defeated": "Evil King! You realized that you won this war in name only?",
+		"introduction": "I am Boudicca, Queen of the Celts and nobody better try rushing me!",
+		"neutralHello": "God has given good to you.",
+		"neutralLetsHearIt": [
+			"Go on.",
+			"We are all ears.",
+			"Forward."
+		],
+		"neutralNo": [
+			"We must refuse.",
+			"No.",
+			"We refuse."
+		],
+		"neutralYes": [
+			"Accepted.",
+			"Okay.",
+			"Sure."
+		],
+		"hateHello": "Well?",
+		"hateLetsHearIt": [
+			"Speak!",
+			"Forward! Before i change my mind.",
+			"And?"
+		],
+		"hateNo": [
+			"Thousand times no!",
+			"That's unnaceptabble!",
+			"Never!"
+		],
+		"hateYes": [
+			"Eugh! Fine then...",
+			"But if i have to...",
+			"Very well..."
+		],
+		"afterPeace": [
+			"Good play, fellow warrior."
+		],
+		"tradeRequest": "Let us unite our armies, and profit from the challenges.",
+		"outerColor": [
+			22,
+			101,
+			63
+		],
+		"innerColor": [
+			148,
+			170,
+			255
+		],
+		"uniqueName": "DRUIDIC_LORE",
+		"cities": [
+			"Edinburgh",
+			"Dublin",
+			"Cardiff",
+			"Truro",
+			"Nantes",
+			"Douglas",
+			"Glasgow",
+			"Cork",
+			"Aberystwyth",
+			"Penzance",
+			"Rennes",
+			"Ramsey",
+			"Inverness",
+			"Limerick",
+			"Swansea",
+			"St. Ives",
+			"Brest",
+			"Peel",
+			"Aberdeen",
+			"Belfast",
+			"Caernafon",
+			"Newquay",
+			"Saint-Nazarre",
+			"Castletown",
+			"Stirling",
+			"Galway",
+			"Conwy",
+			"St. Austell",
+			"Saint-Malo",
+			"Onchan",
+			"Londonderry",
+			"Llanfairpwllgwyngyll",
+			"Falmouth",
+			"Lorient"
+		]
+	},
+	{
+		"name": "Denmark",
+		"leaderName": "Harald Bluetooth",
+		"adjective": [
+			"Danish",
+		],
+		"startBias": [
+			"Coast",
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Honor and glory be yours, Harald Bluetooth Gormsson, mighty heir of King Gorm of the Old and Thryra Dannebod. Not only were you victorious on the battlefield against the armies of Norway, you also completed massive construction project across the land - numerous Ring Fortresses to protect the populace from invasion and internal strife. You successfully drove off waves of German settlers in 983 AD and sheltered your kingdom from unwanted foreign influence.",
+		"startIntroPart2": "Stalwart Viking, the time for greatness is upon you once more. You are called to rise up and lead your people to renewed power and trumph! Will you make the world shudder once more at the very thought of your great armies of the Northsmen? Will you let the Viking battle cry ring out across the crashing waved? Will you build a civilization to stand the test of time?",
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
+		"attacked": "Ahahah! You seem to show some skills of a true Viking! Too bad that I'll probably kill you!",
+		"defeated": "Loki must have stood by you, for a common man alone could not have defeated me... Oh well! I will join the einherjar in Valhalla and feast, while you toil away here.",
+		"introduction": "Harald Bluetooth bids you welcome to his lands, a Viking unlike any the seas and lands have ever known! Hah, are you afraid?",
+		"neutralHello": "Hail to you.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
+		"outerColor": [51,25,0],
+		"innerColor": [255,255,102],
+		"unique": "VIKING_FURY",
+		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Oslo","Jelling","Truso",
+			"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
+			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
+			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
+			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"]
+	},
+	{
+		"name": "The Dutch",
+		"leaderName": "William I",
+		"adjective": [
+			"Dutch"
+		],
+		"startBias": [
+			"Grassland"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "Hail stalwart Prince William of Orange, liberator of the Netherlands and hero to the Dutch people. It was your courageous effort in the 1568 rebellion against Spanish dominion that led the Dutch to freedom, and ultimately resulted in the Eighty Years' War. Your undertaking allowed for the creation of one of Europe's first modern republics, the Seven United Provinces. You gave your life to the rebellion, falling at the hands of an assassin in 1584, but your death would only serve to embolden the people's charge, and your legacy as 'Father of the Fatherland' will stand as a symbol of Dutch independence for all time.",
+		"startIntroPart2": "Brave prince, the people again yearn for the wise stewardship your wisdom afforded them. Can you once again secure the sovereignty of your kingdom and lead your people to greatness? Can you build a civilization that stands the test of time?",
+		"declaringWar": "As much as I despise war, I consider it a, hahaha, contribution to the common cause to erase your existence.",
+		"attacked": "You call yourself an exalted ruler, but I see nothing more than a smartly dressed barbarian!",
+		"defeated": "My God, be merciful to my soul. My God, feel pity for this... my poor people!",
+		"introduction": "I am William of Orange, stadtholder of The Netherlands. Did you need anything? I still have a lot to do.",
+		"neutralHello": "Once again, greetings.",
+		"neutralLetsHearIt": [
+			"Go ahead.",
+			"I am listening.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"I must...refuse.",
+			"Certainly not!",
+			"Rejected."
+		],
+		"neutralYes": [
+			"Very well.",
+			"Excellent.",
+			"Thus it is agreed."
+		],
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": [
+			"What now?",
+			"And?",
+			"Speak up!"
+		],
+		"hateNo": [
+			"That is unacceptable!",
+			"You can not be serious!",
+			"Excuse me?"
+		],
+		"hateYes": [
+			"Hmph, very well.",
+			"I think, I have no other choice!",
+			"Excellent!"
+		],
+		"afterPeace": [
+			"May this have been a lesson for you. Hopefully... you will remember it."
+		],
+		"tradeRequest": "I believe I have something that may be of some importance to you.",
+		"outerColor": [
+			254,
+			135,
+			0
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"uniqueName": "DUTCH_EAST_INDIA_COMPANY",
+		"cities": [
+			"Amsterdam",
+			"Rotterdam",
+			"Utrecht",
+			"Groningen",
+			"Breda",
+			"Nijimegen",
+			"Den Haag",
+			"Haarlem",
+			"Arnhem",
+			"Zutphen",
+			"Maastricht",
+			"Tilburg",
+			"Eindhoven",
+			"Dordrecht",
+			"Leiden",
+			"Hertogenbosch",
+			"Almere",
+			"Alkmaar",
+			"Brielle",
+			"Vlissingen",
+			"Apeldoorn",
+			"Nova Enschede",
+			"Sao Bernardo do Amersfoort",
+			"Zwolle",
+			"Venlo",
+			"Uden",
+			"Grave",
+			"Delft",
+			"Gouda",
+			"Nieuwstadt",
+			"Weesp",
+			"Coevorden",
+			"Kerkrade"
+		]			
+	},
+{
+		"name": "Ethiopia",
+		"leaderName": "Haile Selassie",
+		"adjective": [
+			"Ethiopian"
+		],
+		"startBias": [
+			"Grassland"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "Blessings be upon you, honorable and righteous Emperor of Ethiopia, Haile Selassie. Your legacy as one of Ethiopia's greatest rulers, and as the spiritual leader to the Rastafarian movement, is outshone only by the influence you had on diplomacy and political cooperation throughout the world. In introducing Ethiopia's first written constitution, you planted the seeds of democracy that would take root over the coming years, and your infinitely wise grasp of global affairs secured Ethiopia's place as a charter member of the United Nations. Spearheading efforts to reform and modernize the nation during your reign, you changed the course of Ethiopian history forever.",
+		"startIntroPart2": "Revered king, your composed demeanor once protected the people from the many conflicts that plague the nations of men, and the kingdom looks to you to assure peace once again. Will you lead the people with courage and authority, moving forward into a new age? Will you build a civilization that stands the test of time?",
+		"declaringWar": "I tried so many ways but you continue doing craziness. I wish you a fast ending.",
+		"attacked": "Mean people silence, makes them a winner. We will not sit and watch you do whatever you wish.",
+		"defeated": "Today, God and history will remember your action. You are ready to do wrongful judgment.",
+		"introduction": "Dear fellow nation, welcome. I am Emperor Haile Selassie Ras Teferi Mekonnen of Ethiopia, your sincere server.",
+		"neutralHello": "Welcome.",
+		"neutralLetsHearIt": [
+			"Continue.",
+			"I am listening.",
+			"Yes?"
+		],
+		"neutralNo": [
+			"It is not right.",
+			"We oppose because it is not right.",
+			"But I feel the agreement is done."
+		],
+		"neutralYes": [
+			"Great.",
+			"An agreement has been reached.",
+			"Our heart and soul is very much satisfied."
+		],
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": [
+			"You said it.",
+			"What? And?",
+			"Continue."
+		],
+		"hateNo": [
+			"That is unacceptable.",
+			"You are not sure about it.",
+			"Please repeat for me."
+		],
+		"hateYes": [
+			"Fine, in my understanding.",
+			"It is clear.",
+			"It is clear."
+		],
+		"afterPeace": [
+			"Today is the day of victory over our enemy. Our heart and soul is satisfied. Think about the situation. Believe in our nation as it is very important."
+		],
+		"tradeRequest": "This situation, you better think as I believe for both our people, it is very important and useful.",
+		"outerColor": [
+			17,
+			44,
+			16
+		],
+		"innerColor": [
+			254,
+			31,
+			33
+		],
+		"uniqueName": "SPIRIT_OF_ADWA",
+		"cities": [
+			"Addis Ababa",
+			"Harar",
+			"Adwa",
+			"Lalibela",
+			"Gondar",
+			"Axum",
+			"Dire Dawa",
+			"Bahir Dar",
+			"Adama",
+			"Mek'ele",
+			"Awasa",
+			"Jimma",
+			"Jijiga",
+			"Dessie",
+			"Debre Berhan",
+			"Shashamane",
+			"Debre Zeyit",
+			"Sodo",
+			"Hosaena",
+			"Nekemte",
+			"Aselia",
+			"Dila",
+			"Adigrat",
+			"Debre Tabor",
+			"Sebeta",
+			"Shire",
+			"Ambo",
+			"Negele Arsi",
+			"Gambela",
+			"Ziway",
+			"Weldiya"
+		]
+	},
+	{
+		"name": "The Huns",
+		"leaderName": "Attila",
+		"adjective": [
+			"Hunnic"
+		],
+		"startBias": [
+			"Avoid Forest", "Avoid Jungle"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.",
+		"startIntroPart2": "Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time?",
+		"declaringWar": " I'm getting bored of this throne of mine. I will take YOURS instead.",
+		"attacked": "Now what is this?! You ask me to add your riches to my great avails. The invitation is accepted.",
+		"defeated": " My people will mourn me not with tears but with human blood.",
+		"introduction": "You are now in front of Attila, the misfortunes of the city of Rome.",
+		"neutralHello": "They received well.",
+		"neutralLetsHearIt": [
+			"Let's proceed as usual.",
+			"Continue.",
+			"Do you agree, my friend?"
+		],
+		"neutralNo": [
+			"I must refuse.",
+			"No.",
+			"Not now."
+		],
+		"neutralYes": [
+			"Very well.",
+			"All is good.",
+			"Agreed."
+		],
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": [
+			"Now what is this?",
+			"So what?",
+			"Continue!."
+		],
+		"hateNo": [
+			"It is not possible to accept.",
+			"You are mad!",
+			"So, you want to die, don't you?"
+		],
+		"hateYes": [
+			"Very well. Agreed.",
+			"Exactly!",
+			"Very well."
+		],
+		"afterPeace": [
+			"Sometimes you endure losses, however well you've tried at preparations."
+		],
+		"tradeRequest": "Come here! There are lots of agreement papers to do.",
+		"outerColor": [
+			77,
+			2,
+			4
+		],
+		"innerColor": [
+			238,
+			238,
+			236
+		],
+		"uniqueName": "SCOURGE_OF_GOD",
+		"cities": [
+			"Attila's Court",
+			"Washington",
+			"Mecca",
+			"Tenochtitlan",
+			"Babylon",
+			"Beijing",
+			"Copenhagen",
+			"Thebes",
+			"London",
+			"Paris",
+			"Berlin",
+			"Athens",
+			"Cusco",
+			"Delhi",
+			"Onoondaga",
+			"Kyoto",
+			"Seoul",
+			"Karakorum",
+			"Istanbul",
+			"Persepolis",
+			"Honolulu",
+			"Rome",
+			"Moscow",
+			"Sukhothai",
+			"Gao",
+			"Madrid",
+		]
+	},
+	{
+		"name": "The Maya",
+		"leaderName": "Pacal",
+		"adjective": [
+			"Mayan"
+		],
+		"startBias": [
+			"Plains"
+		],
+		"preferredVictoryType": "Scientific",
+		"startIntroPart1": "Your people kneel before you, exalted King Pacal the Great, favored son of the gods and shield to the citizens of the Palenque domain. After years of strife at the hands of your neighboring rivals, you struck back at the enemies of your people, sacrificing their leaders in retribution for the insults dealt to your predecessors. The glory of Palenque was restored only by the guidance afforded by your wisdom, as you orchestrated vast reconstruction efforts within the city, creating some of the greatest monuments and architecture your people - and the world - have ever known.",
+		"startIntroPart2": "Illustrious King, your people once again look to you for leadership and counsel in the coming days. Will you channel the will of the gods and restore your once proud kingdom to its greatest heights? Will you build new monuments to forever enshrine the memories of your people? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "A sacrifice unlike all others must be made!",
+		"attacked": "What a fool ye are! Ye will end swiftly and miserably.",
+		"defeated": "Today comes pain that is always hot. With you comes the path to the black storm.",
+		"introduction": "Greetings, wayward one. I am known as Pacal.",
+		"neutralHello": "Fine day; it helps you.",
+		"neutralLetsHearIt": [
+			"If you must show me.",
+			"Not necessary.",
+			"?"
+		],
+		"neutralNo": [
+			"?",
+			"Fine, okay.",
+			"Fine."
+		],
+		"neutralYes": [
+			"?",
+			"Agreed!",
+			"Very nice!"
+		],
+		"hateHello": "Oh, it's ye!",
+		"hateLetsHearIt": [
+			"?",
+			"?",
+			"?"
+		],
+		"hateNo": [
+			"?",
+			"?",
+			"?"
+		],
+		"hateYes": [
+			"Oh...fine, okay.",
+			"?",
+			"?"
+		],
+		"afterPeace": [
+			"?"
+		],
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
+		"outerColor": [
+			213,
+			166,
+			120			
+		],
+		"innerColor": [
+			43,
+			79,
+			83
+		],
+		"uniqueName": "THE_LONG_COUNT",
+		"cities": [
+			"Palenque",
+			"Tikal",
+			"Chichen Itza",
+			"Uxmal",
+			"Tulum",
+			"Copan",
+			"Coba",
+			"El Mirador",
+			"Calakmul",
+			"Edzna",
+			"Lamanai",
+			"Izapa",
+			"Uaxactun",
+			"Comalcalco",
+			"Piedras Negras",
+			"Cancuen",
+			"Yaxha",
+			"Quirigua",
+			"Q'umarkaj",
+			"Nakbe",
+			"Cerros",
+			"Xumantunich",
+			"Takalik Abaj",
+			"Cival",
+			"San Bartolo",
+			"Altar de Sacrificios",
+			"Seibal",
+			"Caracol",
+			"Naranjo",
+			"Dos Pilas",
+			"Mayapan",
+			"Ixinche",
+			"Zaculeu",
+			"Kabah"
+		]	
+	}
+]
